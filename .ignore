@@ -1,0 +1,8 @@
+# ItelliJ project files
+
+.idea
+lib
+*.iml
+out
+src/com
+gen
